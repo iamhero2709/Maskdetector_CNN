@@ -1,0 +1,28 @@
+# Core ML
+tensorflow==2.15.0
+numpy
+opencv-python
+matplotlib
+scikit-learn
+Pillow
+
+# Web serving
+flask
+fastapi
+uvicorn
+
+# Dev & Utility
+PyYAML
+tqdm
+python-dotenv
+loguru
+
+# For reading Pascal VOC annotations
+lxml
+
+# Testing
+pytest
+
+# Optional: for typing and linting
+mypy
+black

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.h5
+*.pb
+*.log
+*.ckpt
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# VSCode or IDE folders
+.vscode/
+.idea/
+
+# Data and models
+data/
+saved_models/
+
+# OS files
+.DS_Store
+Thumbs.db
