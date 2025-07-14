@@ -10,7 +10,8 @@ Pillow
 flask
 fastapi
 uvicorn
-
+python-multipart
+pydantic
 # Dev & Utility
 PyYAML
 tqdm
